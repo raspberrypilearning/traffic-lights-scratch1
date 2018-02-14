@@ -1,27 +1,27 @@
-## Control the LEDs
+## کنترل LED ها
 
-1. Open **Scratch** from the Programming menu (**Scratch**, not **Scratch 2**).
+1. باز **خراش** از منوی برنامه ریزی (**خراش**، نه **خراش 2**).
 
-2. Click **Edit** in the menu bar and select **Start GPIO server**:
+2. روی 123 | در نوار منو و انتخاب کنید **شروع سرور GPIO**:
     
     ![](images/scratch1-1.png)
 
-3. Click the **Control** panel. Drag in a **when flag clicked** block and two **broadcast** blocks. Dock them together in sequence and edit the broadcasts to say `config22out` and `gpio22on` like so:
+3. روی 123_8_0_321 | کنترل</strong> کلیک کنید پانل در 123 | 13_0_321 | هنگام پرش کلیک کنید</strong> بلوک و دو **پخش** بلوک ها آنها را به صورت دسته ای دسته بندی کنید و برنامه های پخش را ویرایش کنید. `config22out` و `gpio22on` مانند:
     
     ![](images/scratch1-2.png)
 
-4. Now click the green flag to run your code. You should see the red LED light up.
+4. برای اجرای کد خود، روی پرچم سبز کلیک کنید. شما باید چراغ قرمز را ببینید.
 
-5. Now add a **wait 1 secs** block before and after turning the LED off with `broadcast gpio22off`, and wrap it in a **forever** block to blink continuously:
+5. حالا اضافه کنید **انتظار 1 ثانیه** بلوک قبل و بعد از روشن کردن چراغ با `پخش gpio22off`و قرار دادن آن در **برای همیشه 123_9_5_321 | بلوک به طور مداوم چشمک می زند:</p> 
     
-    ![](images/scratch1-3.png)
-
-6. Click the green flag again and you should see the LED blink.
-
-7. Now add some more **broadcast** blocks to introduce the other two lights, and make them all flash on and off:
+    ![](images/scratch1-3.png)</li> 
     
-    ![](images/scratch1-4.png)
-
-8. Click the green flag again and you should see the three lights flash together.
-
-9. Can you change the number in **wait 1 secs** to speed up or slow down the sequence?
+    - با کلیک بر روی پرچم سبز دوباره و شما باید چشمک زن LED را ببینید.
+    
+    - در حال حاضر اضافه کردن برخی دیگر **پخش** بلوک ها برای معرفی دو چراغ دیگر، و آنها را در همه فلش روشن و خاموش:
+        
+        ![](images/scratch1-4.png)
+    
+    - با کلیک بر روی پرچم سبز دوباره و شما باید سه چراغ فلش با هم ببینید.
+    
+    - آیا می توانید شماره را در **انتظار 1 ثانیه** برای سرعت بخشیدن یا کاهش سرعت دنباله؟</ol>
