@@ -1,17 +1,17 @@
-## Traffic lights sequence
+## Sequenza dei semafori
 
-1. Try turning the lights on and off in sequence:
+1. Prova ad accendere e spegnere le luci in sequenza:
 
 ![](images/scratch1-5.png)
 
-1. Now you know how to control the lights individually, and time the pauses between commands, can you create a traffic lights sequence? The sequence goes:
+1. Ora sai come controllare le luci individualmente e cronometrare le pause tra i comandi, puoi creare una sequenza di semafori? La sequenza va:
     
-    - Green on
-    - Amber on
-    - Red on
-    - Red and amber on
-    - Green on
+    - Verde acceso
+    - Ambra
+    - Rosso acceso
+    - Rosso e ambra
+    - Verde acceso
 
-It's important to think about timing. How long should the lights stay on for at each stage?
+È importante pensare ai tempi. Per quanto tempo dovrebbero rimanere accese le luci in ogni fase?
 
-Once you have completed the traffic light sequence, you might want to try adding in a button and a buzzer to make an interactive traffic light for a pedestrian crossing.
+Una volta completata la sequenza del semaforo, potresti provare ad aggiungere un pulsante e un cicalino per creare un semaforo interattivo per un passaggio pedonale.
