@@ -1,3 +1,3 @@
-## Introduction
+## परिचय
 
-Learn to control traffic light LEDs and code a traffic lights sequence using Scratch 1.4
+ट्रैफिक लाइट एल ई डी को नियंत्रित करने और स्क्रैच 1.4 का इस्तेमाल करते हुए ट्रैफिक लाइट अनुक्रम को नियंत्रित करने के बारे में जानें
