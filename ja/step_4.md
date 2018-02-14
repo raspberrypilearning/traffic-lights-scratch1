@@ -1,27 +1,27 @@
-## Control the LEDs
+## LEDの制御
 
-1. Open **Scratch** from the Programming menu (**Scratch**, not **Scratch 2**).
+1. 開く**スクラッチ**プログラミングメニュー（**スクラッチ**ではなく、**スクラッチ2**）
 
-2. Click **Edit** in the menu bar and select **Start GPIO server**:
+2. **編集**をクリックします。 **Start GPIO server**を選択します。
     
     ![](images/scratch1-1.png)
 
-3. Click the **Control** panel. Drag in a **when flag clicked** block and two **broadcast** blocks. Dock them together in sequence and edit the broadcasts to say `config22out` and `gpio22on` like so:
+3. **Control**をクリックします。パネル。 **フラグがクリックされたときに**ブロックと2つ**放送**ブロック。 それらを連続してドッキングし、ブロードキャストを編集して`config22out`と`gpio22on`そのようです：
     
     ![](images/scratch1-2.png)
 
-4. Now click the green flag to run your code. You should see the red LED light up.
+4. 次に緑色の旗をクリックしてコードを実行します。 赤色のLEDが点灯するはずです。
 
-5. Now add a **wait 1 secs** block before and after turning the LED off with `broadcast gpio22off`, and wrap it in a **forever** block to blink continuously:
+5. 今すぐ追加**待機1秒** `broadcast gpio22off`でLEDを消す前後でブロックし、**forever**ブロックが連続的に点滅する：
     
     ![](images/scratch1-3.png)
 
-6. Click the green flag again and you should see the LED blink.
+6. 緑の旗をもう一度クリックすると、LEDが点滅するはずです。
 
-7. Now add some more **broadcast** blocks to introduce the other two lights, and make them all flash on and off:
+7. もう少し追加する**放送**ブロックを使用して他の2つのライトを導入し、それらのライトをすべてオンまたはオフにします。
     
     ![](images/scratch1-4.png)
 
-8. Click the green flag again and you should see the three lights flash together.
+8. 緑色の旗をもう一度クリックすると、3つのライトが一緒に点滅するのがわかります。
 
-9. Can you change the number in **wait 1 secs** to speed up or slow down the sequence?
+9. 数を変更できますか？**待機1秒**シーケンスをスピードアップまたはスローダウンするには？
