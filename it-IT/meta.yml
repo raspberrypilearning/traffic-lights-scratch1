@@ -1,0 +1,24 @@
+---
+title: Controllare una sequenza di semafori con Scratch 1.4
+hero_image: images / banner.png
+description: Impara a controllare i semafori a LED e codifica una sequenza di semafori utilizzando Scratch 1.4
+theme: rosso
+duration: 2
+listed: false
+ingredient: false
+copyedit: false
+curriculum: programmazione-0, compatta-0
+interests: "calcolo fisico"
+technologies: "elettronica, calcolo fisico, scratch"
+site_areas: ""
+steps:
+  - 
+    title: introduzione
+  - 
+    title: Di cosa avrai bisogno
+  - 
+    title: Collegare i LED
+  - 
+    title: Controlla i LED
+  - 
+    title: Sequenza dei semafori
