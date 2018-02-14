@@ -1,3 +1,3 @@
-## Introduction
+## introduzione
 
-Learn to control traffic light LEDs and code a traffic lights sequence using Scratch 1.4
+Impara a controllare i semafori a LED e codifica una sequenza di semafori utilizzando Scratch 1.4
