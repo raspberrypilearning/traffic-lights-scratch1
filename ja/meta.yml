@@ -1,24 +1,24 @@
 ---
-title: Control a Traffic Lights Sequence with Scratch 1.4
-hero_image: images/banner.png
-description: Learn to control traffic light LEDs and code a traffic lights sequence using Scratch 1.4
-theme: red
+title: Scratch 1.4でトラフィックライトシーケンスを制御する
+hero_image: images / banner.png
+description: トラフィックライトのLEDを制御し、Scratch 1.4を使用して信号灯のシーケンスをコードする方法を学ぶ
+theme: 赤
 duration: 2
 listed: false
 ingredient: false
 copyedit: false
-curriculum: programming-0, phys-comp-0
-interests: "physical computing"
-technologies: "electronics, physical computing, scratch"
+curriculum: プログラミング-0、phys-comp-0
+interests: "物理計算"
+technologies: "エレクトロニクス、物理コンピューティング、スクラッチ"
 site_areas: ""
 steps:
   - 
-    title: Introduction
+    title: 前書き
   - 
-    title: What you will need
+    title: あなたが必要とするもの
   - 
-    title: Connect the LEDs
+    title: LEDを接続する
   - 
-    title: Control the LEDs
+    title: LEDの制御
   - 
-    title: Traffic lights sequence
+    title: 交通信号のシーケンス
