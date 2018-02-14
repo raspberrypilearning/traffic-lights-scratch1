@@ -1,17 +1,17 @@
-## Traffic lights sequence
+## ट्रैफिक लाइट अनुक्रम
 
-1. Try turning the lights on and off in sequence:
+1. रोशनी को अनुक्रम में चालू और बंद करने का प्रयास करें:
 
 ![](images/scratch1-5.png)
 
-1. Now you know how to control the lights individually, and time the pauses between commands, can you create a traffic lights sequence? The sequence goes:
+1. अब आप जानते हैं कि रोशनी को अलग-अलग कैसे नियंत्रित किया जाए, और आदेशों के बीच का विराम के समय, क्या आप ट्रैफिक लाइट अनुक्रम बना सकते हैं? अनुक्रम चला जाता है:
     
-    - Green on
-    - Amber on
-    - Red on
-    - Red and amber on
-    - Green on
+    - ग्रीन पर
+    - अंबर पर
+    - रेड ऑन
+    - लाल और एम्बर पर
+    - ग्रीन पर
 
-It's important to think about timing. How long should the lights stay on for at each stage?
+समय के बारे में सोचना महत्वपूर्ण है प्रत्येक चरण में रोशनी कितनी देर तक रहती है?
 
-Once you have completed the traffic light sequence, you might want to try adding in a button and a buzzer to make an interactive traffic light for a pedestrian crossing.
+ट्रैफिक लाइट अनुक्रम पूरा करने के बाद, आप एक पैदल यात्री क्रॉसिंग के लिए इंटरैक्टिव ट्रैफिक लाइट बनाने के लिए बटन और बजर में जोड़ने का प्रयास करना चाह सकते हैं।
