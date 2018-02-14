@@ -1,27 +1,27 @@
-## Control the LEDs
+## Controlla i LED
 
-1. Open **Scratch** from the Programming menu (**Scratch**, not **Scratch 2**).
+1. Apri **Scratch** dal menu Programmazione (**Scratch**, non **Scratch 2**).
 
-2. Click **Edit** in the menu bar and select **Start GPIO server**:
+2. Fare clic su **Modifica** nella barra dei menu e selezionare **Avviare il server GPIO**:
     
     ![](images/scratch1-1.png)
 
-3. Click the **Control** panel. Drag in a **when flag clicked** block and two **broadcast** blocks. Dock them together in sequence and edit the broadcasts to say `config22out` and `gpio22on` like so:
+3. Fare clic su **Controllo** pannello. Trascina in un **quando viene cliccato il flag** blocco e due **broadcast** blocchi. Collegarli insieme in sequenza e modificare le trasmissioni per dire `config22out` e `gpio22on` così:
     
     ![](images/scratch1-2.png)
 
-4. Now click the green flag to run your code. You should see the red LED light up.
+4. Ora fai clic sulla bandiera verde per eseguire il tuo codice. Dovresti vedere il LED rosso acceso.
 
-5. Now add a **wait 1 secs** block before and after turning the LED off with `broadcast gpio22off`, and wrap it in a **forever** block to blink continuously:
+5. Ora aggiungi un **wait 1 secs** bloccare prima e dopo aver spento il LED con `broadcast gpio22off`, e avvolgerlo in un **per sempre** blocco per lampeggiare continuamente:
     
     ![](images/scratch1-3.png)
 
-6. Click the green flag again and you should see the LED blink.
+6. Fai di nuovo clic sulla bandiera verde e dovresti vedere il LED lampeggiare.
 
-7. Now add some more **broadcast** blocks to introduce the other two lights, and make them all flash on and off:
+7. Ora aggiungine altro **broadcast** blocchi per introdurre le altre due luci e farle accendere e spegnere tutte:
     
     ![](images/scratch1-4.png)
 
-8. Click the green flag again and you should see the three lights flash together.
+8. Fai di nuovo clic sulla bandiera verde e dovresti vedere le tre luci lampeggiare insieme.
 
-9. Can you change the number in **wait 1 secs** to speed up or slow down the sequence?
+9. Puoi cambiare il numero in **wait 1 sec** accelerare o rallentare la sequenza?
