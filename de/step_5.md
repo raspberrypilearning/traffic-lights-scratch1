@@ -1,17 +1,17 @@
-## Traffic lights sequence
+## Ampel Sequenz
 
-1. Try turning the lights on and off in sequence:
+1. Versuchen Sie, die Lichter der Reihe nach ein- und auszuschalten:
 
 ![](images/scratch1-5.png)
 
-1. Now you know how to control the lights individually, and time the pauses between commands, can you create a traffic lights sequence? The sequence goes:
+1. Jetzt wissen Sie, wie man die Lichter individuell steuert und die Pausen zwischen den Befehlen einstellt. Können Sie eine Ampelsequenz erstellen? Die Reihenfolge lautet:
     
-    - Green on
-    - Amber on
-    - Red on
-    - Red and amber on
-    - Green on
+    - Grün an
+    - Bernstein an
+    - Rot an
+    - Rot und Bernstein an
+    - Grün an
 
-It's important to think about timing. How long should the lights stay on for at each stage?
+Es ist wichtig, über das Timing nachzudenken. Wie lange sollten die Lichter in jeder Phase eingeschaltet bleiben?
 
-Once you have completed the traffic light sequence, you might want to try adding in a button and a buzzer to make an interactive traffic light for a pedestrian crossing.
+Wenn Sie die Ampelsequenz abgeschlossen haben, können Sie versuchen, eine Schaltfläche und einen Summer hinzuzufügen, um eine interaktive Ampel für einen Fußgängerübergang zu erstellen.
