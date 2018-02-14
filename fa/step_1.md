@@ -1,3 +1,3 @@
-## Introduction
+## معرفی
 
-Learn to control traffic light LEDs and code a traffic lights sequence using Scratch 1.4
+یاد بگیرید برای کنترل چراغ های چراغ راهنمایی و کد یک چراغ راهنمایی چراغ با استفاده از خراش 1.4
