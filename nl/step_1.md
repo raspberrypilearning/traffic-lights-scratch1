@@ -1,3 +1,3 @@
-## Introduction
+## Invoering
 
-Learn to control traffic light LEDs and code a traffic lights sequence using Scratch 1.4
+Leer verkeerslicht-LED's beheren en codeer een reeks verkeerslichten met behulp van Scratch 1.4
