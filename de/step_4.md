@@ -1,27 +1,27 @@
-## Control the LEDs
+## Kontrolliere die LEDs
 
-1. Open **Scratch** from the Programming menu (**Scratch**, not **Scratch 2**).
+1. Öffnen **Scratch** aus dem Programmiermenü (**Scratch**, nicht **Scratch 2**).
 
-2. Click **Edit** in the menu bar and select **Start GPIO server**:
+2. Klicken Sie auf **Bearbeiten** in der Menüleiste und wählen Sie **GPIO-Server starten**:
     
     ![](images/scratch1-1.png)
 
-3. Click the **Control** panel. Drag in a **when flag clicked** block and two **broadcast** blocks. Dock them together in sequence and edit the broadcasts to say `config22out` and `gpio22on` like so:
+3. Klicken Sie auf **Steuerung** Panel. Ziehen Sie in einem **wenn Flag geklickt wird** block und zwei **broadcast** Blöcke. Docken Sie sie nacheinander an und bearbeiten Sie die Broadcasts, um `config22out` zu sagen und `gpio22on` so:
     
     ![](images/scratch1-2.png)
 
-4. Now click the green flag to run your code. You should see the red LED light up.
+4. Klicken Sie nun auf die grüne Flagge, um Ihren Code zu starten. Sie sollten sehen, dass die rote LED aufleuchtet.
 
-5. Now add a **wait 1 secs** block before and after turning the LED off with `broadcast gpio22off`, and wrap it in a **forever** block to blink continuously:
+5. Fügen Sie jetzt ein **warten Sie 1 Sekunden** Blockieren Sie vor und nach dem Ausschalten der LED mit `broadcast gpio22off`, und verpacken Sie es in ein **forever** blockieren, um kontinuierlich zu blinken:
     
     ![](images/scratch1-3.png)
 
-6. Click the green flag again and you should see the LED blink.
+6. Klicken Sie erneut auf die grüne Flagge und Sie sollten die LED blinken sehen.
 
-7. Now add some more **broadcast** blocks to introduce the other two lights, and make them all flash on and off:
+7. Fügen Sie nun weitere **broadcast** hinzu Blöcke, um die anderen beiden Lichter einzuführen und sie alle blinken zu lassen:
     
     ![](images/scratch1-4.png)
 
-8. Click the green flag again and you should see the three lights flash together.
+8. Klicken Sie erneut auf die grüne Flagge und Sie sollten sehen, dass die drei Lichter zusammen blinken.
 
-9. Can you change the number in **wait 1 secs** to speed up or slow down the sequence?
+9. Kannst du die Zahl in **warten 1 Sek.** ändern? um die Sequenz zu beschleunigen oder zu verlangsamen?
