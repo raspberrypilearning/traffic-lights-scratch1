@@ -1,17 +1,17 @@
-## Traffic lights sequence
+## A közlekedési lámpa sorrendje
 
-1. Try turning the lights on and off in sequence:
+1. Próbálja meg világítani és kikapcsolni a lámpákat:
 
 ![](images/scratch1-5.png)
 
-1. Now you know how to control the lights individually, and time the pauses between commands, can you create a traffic lights sequence? The sequence goes:
+1. Most már tudod, hogyan kell egyedileg irányítani a fényeket, és a parancsok közötti szünetek idejét, létrehozhatsz egy közlekedési lámpa sorozatát? A szekvencia megy:
     
-    - Green on
-    - Amber on
-    - Red on
-    - Red and amber on
-    - Green on
+    - Zölden
+    - Borostyán
+    - Piros
+    - Piros és sárga
+    - Zölden
 
-It's important to think about timing. How long should the lights stay on for at each stage?
+Fontos időzni. Mennyi ideig kell a fények maradni minden szakaszban?
 
-Once you have completed the traffic light sequence, you might want to try adding in a button and a buzzer to make an interactive traffic light for a pedestrian crossing.
+Miután befejezte a közlekedési lámpa sorozatát, érdemes megpróbálnia hozzáadni egy gombot és egy zümmögőt, hogy interaktív közlekedési lámpát készítsen egy gyalogos átkeléshez.
