@@ -1,17 +1,17 @@
-## Traffic lights sequence
+## Séquence de feux de circulation
 
-1. Try turning the lights on and off in sequence:
+1. Essayez d'allumer et d'éteindre les lumières dans l'ordre:
 
 ![](images/scratch1-5.png)
 
-1. Now you know how to control the lights individually, and time the pauses between commands, can you create a traffic lights sequence? The sequence goes:
+1. Maintenant, vous savez comment contrôler les lumières individuellement, et le temps des pauses entre les commandes, pouvez-vous créer une séquence de feux de circulation? La séquence va:
     
-    - Green on
-    - Amber on
-    - Red on
-    - Red and amber on
-    - Green on
+    - Vert sur
+    - Ambre sur
+    - Rouge sur
+    - Rouge et ambre sur
+    - Vert sur
 
-It's important to think about timing. How long should the lights stay on for at each stage?
+Il est important de penser au timing. Combien de temps les lumières doivent-elles rester allumées à chaque étape?
 
-Once you have completed the traffic light sequence, you might want to try adding in a button and a buzzer to make an interactive traffic light for a pedestrian crossing.
+Une fois la séquence de feu de circulation terminée, vous pouvez essayer d'ajouter un bouton et un buzzer pour créer un feu de circulation interactif pour un passage pour piétons.
