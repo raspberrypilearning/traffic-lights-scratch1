@@ -1,3 +1,3 @@
-## Introduction
+## Einführung
 
-Learn to control traffic light LEDs and code a traffic lights sequence using Scratch 1.4
+Lernen Sie, wie Sie Ampel-LEDs steuern und eine Ampel-Sequenz mit Scratch 1.4 programmieren
