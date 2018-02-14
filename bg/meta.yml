@@ -1,24 +1,24 @@
 ---
-title: Control a Traffic Lights Sequence with Scratch 1.4
-hero_image: images/banner.png
-description: Learn to control traffic light LEDs and code a traffic lights sequence using Scratch 1.4
-theme: red
+title: Контролирайте последователността на светлините на трафика с надраскване 1.4
+hero_image: изображения / banner.png
+description: Научете как да управлявате светодиодите със светофари и да кодирате последователността на светофара, като използвате Scratch 1.4
+theme: червен
 duration: 2
 listed: false
 ingredient: false
 copyedit: false
-curriculum: programming-0, phys-comp-0
-interests: "physical computing"
-technologies: "electronics, physical computing, scratch"
+curriculum: програмиране-0, phys-comp-0
+interests: "физически изчисления"
+technologies: "електроника, физически изчисления, нулата"
 site_areas: ""
 steps:
   - 
-    title: Introduction
+    title: Въведение
   - 
-    title: What you will need
+    title: Какво ще ви трябва
   - 
-    title: Connect the LEDs
+    title: Свържете светодиодите
   - 
-    title: Control the LEDs
+    title: Контролирайте светодиодите
   - 
-    title: Traffic lights sequence
+    title: Последователност на светофарите
