@@ -1,3 +1,3 @@
-## Introduction
+## Въведение
 
-Learn to control traffic light LEDs and code a traffic lights sequence using Scratch 1.4
+Научете как да управлявате светодиодите със светофари и да кодирате последователността на светофара, като използвате Scratch 1.4
