@@ -1,27 +1,27 @@
-## Control the LEDs
+## एल ई डी को नियंत्रित करें
 
-1. Open **Scratch** from the Programming menu (**Scratch**, not **Scratch 2**).
+1. ओपन **स्क्रैच** प्रोग्रामिंग मेनू से (**स्क्रैच**, नहीं **स्क्रैच 2**)
 
-2. Click **Edit** in the menu bar and select **Start GPIO server**:
+2. क्लिक करें **संपादित करें** मेनू बार में और चुनें **प्रारंभ GPIO सर्वर**:
     
     ![](images/scratch1-1.png)
 
-3. Click the **Control** panel. Drag in a **when flag clicked** block and two **broadcast** blocks. Dock them together in sequence and edit the broadcasts to say `config22out` and `gpio22on` like so:
+3. 123_8_0_321 | नियंत्रण</strong> पर क्लिक करें पैनल। एक में खींचें **ध्वज क्लिक किया** ब्लॉक और दो **प्रसारण** ब्लॉक। उन्हें क्रम में एक साथ डॉक करें और कहने के लिए प्रसारण संपादित करें `config22out` और `जीपीआईओ 223` इस तरह:
     
     ![](images/scratch1-2.png)
 
-4. Now click the green flag to run your code. You should see the red LED light up.
+4. अब अपना कोड चलाने के लिए हरी झंडी पर क्लिक करें आपको लाल एलईडी लाइट को देखना चाहिए
 
-5. Now add a **wait 1 secs** block before and after turning the LED off with `broadcast gpio22off`, and wrap it in a **forever** block to blink continuously:
+5. अब जोड़ें **रुको 1 सेकंड** 123_6_2_321 | प्रसारण जीपीआईओ 22 ओफ़ | 123_7_3_321 के साथ एलईडी बंद करने से पहले और बाद में ब्लॉक करें, और उसे 123456788_321 में लपेटें | हमेशा के लिए 123_9_5_321 | लगातार ब्लिंक ब्लॉक करें:
     
     ![](images/scratch1-3.png)
 
-6. Click the green flag again and you should see the LED blink.
+6. हरा झंडा फिर से क्लिक करें और आपको एलईडी ब्लिंक देखना चाहिए।
 
-7. Now add some more **broadcast** blocks to introduce the other two lights, and make them all flash on and off:
+7. अब कुछ और जोड़ें **प्रसारण** अन्य दो रोशनी शुरू करने के लिए ब्लॉक, और उन्हें सभी फ्लैश चालू और बंद करें:
     
     ![](images/scratch1-4.png)
 
-8. Click the green flag again and you should see the three lights flash together.
+8. हरा झंडा फिर से क्लिक करें और आपको तीन रोशनी को एक साथ फ्लैश देखना चाहिए।
 
-9. Can you change the number in **wait 1 secs** to speed up or slow down the sequence?
+9. क्या आप नंबर में बदल सकते हैं **रुको 1 सेकंड** क्रम में गति या धीमा करने के लिए?
