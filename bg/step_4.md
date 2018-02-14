@@ -1,27 +1,27 @@
-## Control the LEDs
+## Контролирайте светодиодите
 
-1. Open **Scratch** from the Programming menu (**Scratch**, not **Scratch 2**).
+1. Отвори **Scratch** от менюто за програмиране (**Scratch**, not **Scratch 2**).
 
-2. Click **Edit** in the menu bar and select **Start GPIO server**:
+2. Кликнете върху **Редактиране** в лентата с менюта и изберете **Стартиране на GPIO сървър**:
     
     ![](images/scratch1-1.png)
 
-3. Click the **Control** panel. Drag in a **when flag clicked** block and two **broadcast** blocks. Dock them together in sequence and edit the broadcasts to say `config22out` and `gpio22on` like so:
+3. Кликнете върху **Контрол** панел. Плъзнете в **при натискане на флаг** блок и две **излъчване** блокове. Докоснете ги заедно в последователност и редактирайте излъчванията, за да кажете `config22out` и `gpio22on` така:
     
     ![](images/scratch1-2.png)
 
-4. Now click the green flag to run your code. You should see the red LED light up.
+4. Сега кликнете върху зеления флаг, за да стартирате кода си. Трябва да видите червения светодиод.
 
-5. Now add a **wait 1 secs** block before and after turning the LED off with `broadcast gpio22off`, and wrap it in a **forever** block to blink continuously:
+5. Сега добавете **чакайте 1 сек** блокирайте преди и след изключване на светодиода с `предаване gpio22off`и го обвийте в **forever** блок да мига непрекъснато:
     
     ![](images/scratch1-3.png)
 
-6. Click the green flag again and you should see the LED blink.
+6. Щракнете върху зеления флаг отново и трябва да видите LED мига.
 
-7. Now add some more **broadcast** blocks to introduce the other two lights, and make them all flash on and off:
+7. Сега добавете още **излъчване** блокира, за да въведете другите две светлини и да ги включите и изключите:
     
     ![](images/scratch1-4.png)
 
-8. Click the green flag again and you should see the three lights flash together.
+8. Кликнете върху зеления флаг отново и трябва да видите, че трите лампички мигат заедно.
 
-9. Can you change the number in **wait 1 secs** to speed up or slow down the sequence?
+9. Можете ли да промените номера в **чакайте 1 сек** да се ускори или забави последователността?
