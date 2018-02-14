@@ -1,3 +1,3 @@
-## Introduction
+## 前書き
 
-Learn to control traffic light LEDs and code a traffic lights sequence using Scratch 1.4
+トラフィックライトのLEDを制御し、Scratch 1.4を使用して信号灯のシーケンスをコードする方法を学ぶ
