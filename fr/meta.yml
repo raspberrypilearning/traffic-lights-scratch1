@@ -1,24 +1,24 @@
 ---
-title: Control a Traffic Lights Sequence with Scratch 1.4
-hero_image: images/banner.png
-description: Learn to control traffic light LEDs and code a traffic lights sequence using Scratch 1.4
-theme: red
+title: Contrôler une séquence de feux de circulation avec Scratch 1.4
+hero_image: images / banner.png
+description: Apprenez à contrôler les voyants du feu et à coder une séquence de feux de circulation à l'aide de Scratch 1.4.
+theme: rouge
 duration: 2
 listed: false
 ingredient: false
 copyedit: false
-curriculum: programming-0, phys-comp-0
-interests: "physical computing"
-technologies: "electronics, physical computing, scratch"
+curriculum: programmation-0, phys-comp-0
+interests: "informatique physique"
+technologies: "électronique, informatique physique, scratch"
 site_areas: ""
 steps:
   - 
-    title: Introduction
+    title: introduction
   - 
-    title: What you will need
+    title: Ce dont tu auras besoin
   - 
-    title: Connect the LEDs
+    title: Connectez les LED
   - 
-    title: Control the LEDs
+    title: Contrôler les LED
   - 
-    title: Traffic lights sequence
+    title: Séquence de feux de circulation
