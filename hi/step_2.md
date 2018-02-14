@@ -1,6 +1,6 @@
-## What you will need
+## तुम क्या आवश्यकता होगी
 
-### Hardware
+### हार्डवेयर
 
-- Raspberry Pi
-- pi-stop traffic lights or 3x LEDs and resistors
+- रास्पबेरी पाई
+- पीआई-स्टॉप ट्रैफिक लाइट या 3x एल ई डी और प्रतिरोधक
