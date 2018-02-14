@@ -1,17 +1,17 @@
-## Traffic lights sequence
+## 交通信号のシーケンス
 
-1. Try turning the lights on and off in sequence:
+1. 順番にライトをオンまたはオフにしてみてください：
 
 ![](images/scratch1-5.png)
 
-1. Now you know how to control the lights individually, and time the pauses between commands, can you create a traffic lights sequence? The sequence goes:
+1. 今度は、ライトを個別に制御する方法を知り、コマンド間の休止時間を計る、信号灯シーケンスを作成することができますか？ シーケンスは次のようになります。
     
-    - Green on
-    - Amber on
-    - Red on
-    - Red and amber on
-    - Green on
+    - グリーンオン
+    - アンバーオン
+    - レッドオン
+    - 赤と琥珀色
+    - グリーンオン
 
-It's important to think about timing. How long should the lights stay on for at each stage?
+タイミングについて考えることが重要です。 各ステージでどれくらいの間ライトが点灯し続けるのですか？
 
-Once you have completed the traffic light sequence, you might want to try adding in a button and a buzzer to make an interactive traffic light for a pedestrian crossing.
+信号灯のシーケンスが完了したら、ボタンとブザーを追加して、歩行者の交差点に対話的な信号を発することができます。
