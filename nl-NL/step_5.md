@@ -1,14 +1,14 @@
-## Volgorde verkeerslichten
+## Verkeerslichten volgorde
 
 1. Probeer de lichten achter elkaar in en uit te schakelen:
 
 ![](images/scratch1-5.png)
 
-1. Nu weet u hoe u de lichten afzonderlijk bedient en de pauzes tussen opdrachten kunt u een opeenvolging van verkeerslichten maken? De volgorde gaat:
+1. Nu weet je hoe je de lichten afzonderlijk kunt besturen en de pauzes tussen opdrachten door kunt aanpassen, kunt je nu de juiste volgorde van de verkeerslichten instellen? De volgorde is als volgt:
     
-    - Groen aan
-    - Amber aan
-    - Rood aan
+    - Rood uit, groen aan
+    - Groen uit, oranje aan
+    - Oranje uit, rood aan
     - Rood en oranje op
     - Groen aan
 
