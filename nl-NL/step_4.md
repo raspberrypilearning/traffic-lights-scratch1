@@ -16,12 +16,12 @@
     
     ![](images/scratch1-3.png)
 
-6. Klik nogmaals op de groene vlag en je zou LED moeten zien knipperen.
+6. Klik nogmaals op de groene vlag en je zou de LED moeten zien knipperen.
 
-7. Voeg nu wat meer **zend signaal** blokken toe om de andere twee Led's ook te laten knipperen:
+7. Voeg nu wat meer **zend signaal** blokken toe om de andere twee LED's ook te laten knipperen:
     
     ![](images/scratch1-4.png)
 
 8. Klik nogmaals op de groene vlag en je zou de drie lampjes samen moeten zien flitsen.
 
-9. Kun je waarde in **wacht 1 tellen** wijzigen om de reeks te versnellen of te vertragen?
+9. Kun je waarde in **wacht 1 tellen** wijzigen om het knipperen te versnellen of te vertragen?
