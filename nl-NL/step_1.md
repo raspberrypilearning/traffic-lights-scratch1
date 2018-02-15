@@ -1,3 +1,3 @@
-## Invoering
+## Introductie
 
-Leer verkeerslicht-LED's beheren en codeer een reeks verkeerslichten met behulp van Scratch 1.4
+Leer een verkeerslicht te besturen en te programmeren met behulp van Scratch 1.4
