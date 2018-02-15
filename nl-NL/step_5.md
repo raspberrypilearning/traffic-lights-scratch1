@@ -10,8 +10,8 @@
     - Groen uit, oranje aan
     - Oranje uit, rood aan
     - Rood en oranje op
-    - Groen aan
+    - 
 
-Het is belangrijk om na te denken over timing. Hoe lang moet het licht aan blijven in elke fase?
+Het is belangrijk om na te denken over de tijdsduur van elk licht. Hoe lang moet het licht in elke fase aan blijven?
 
-Nadat u de volgorde van het verkeerslicht hebt voltooid, kunt u proberen een knop en een zoemer toe te voegen om een ​​interactief verkeerslicht te maken voor een zebrapad.
+Nadat je de volgorde van het verkeerslicht hebt voltooid, kunt je proberen een knop en een zoemer toe te voegen om een ​​interactief verkeerslicht te maken voor een zebrapad.
