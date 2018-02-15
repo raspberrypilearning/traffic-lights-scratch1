@@ -1,12 +1,12 @@
-## Bedien de LED's
+## Stuur de LED's aan
 
-1. Open **Kras** uit het programmeermenu (**Krassen**, niet **Kras 2**).
+1. Open **Scratch** uit het Start menu (**Scratch**, niet **Scratch 2**).
 
 2. Klik **Bewerken** in de menubalk en selecteer **Start GPIO-server**:
     
     ![](images/scratch1-1.png)
 
-3. Klik op **Controle** paneel. Sleep in a **wanneer op vlag is geklikt** blok en twee **uitzending** blokken. Koppel ze in volgorde aan elkaar en bewerk de uitzendingen om te zeggen `config22out` en `gpio22on` zoals zo:
+3. Klik op het **Besturen** paneel. Sleep een **wanneer vlag wordt aangeklikt** blok en twee **zend signaal** blokken naar het programma venster. Koppel ze in volgorde aan elkaar en bewerk de uitzendingen om te zeggen `config22out` en `gpio22on` zoals zo:
     
     ![](images/scratch1-2.png)
 
