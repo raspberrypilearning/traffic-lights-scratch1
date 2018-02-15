@@ -1,4 +1,4 @@
-## Verkeerslichten volgorde
+## Volgorde van het verkeerslicht
 
 1. Probeer de lichten achter elkaar in en uit te schakelen:
 
