@@ -7,13 +7,13 @@ duration: 2
 listed: false
 ingredient: false
 copyedit: false
-curriculum: programmeren-0, computergebruik-0
-interests: "computergebruik"
-technologies: "elektronica, computergebruik, scratch"
+curriculum: programming-0, phys-comp-0
+interests: "physical computing"
+technologies: "electronics, physical computing, scratch"
 site_areas: ""
 steps:
   - 
-    title: Introductie
+    title: Inleiding
   - 
     title: Wat heb je nodig
   - 
@@ -21,4 +21,4 @@ steps:
   - 
     title: Bestuur de LED's
   - 
-    title: Verkeerslicht volgorde
+    title: Volgorde verkeerslichten
