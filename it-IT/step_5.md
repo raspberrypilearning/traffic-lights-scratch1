@@ -4,14 +4,14 @@
 
 ![](images/scratch1-5.png)
 
-1. Ora sai come controllare le luci individualmente e cronometrare le pause tra i comandi, puoi creare una sequenza di semafori? La sequenza va:
+1. Adesso che sai come si controllano le luci individualmente, e come si mette una pausa fra un comando e l'altro, sei in grado di creare una sequenza come quella dei semafori? La sequenza è questa:
     
     - Verde acceso
-    - Ambra
+    - Giallo acceso
     - Rosso acceso
-    - Rosso e ambra
+    - Rosso e giallo accesi
     - Verde acceso
 
-È importante pensare ai tempi. Per quanto tempo dovrebbero rimanere accese le luci in ogni fase?
+È importante pensare alle durate. Per quanto tempo devono restare accese le luci in ogni fase?
 
-Una volta completata la sequenza del semaforo, potresti provare ad aggiungere un pulsante e un cicalino per creare un semaforo interattivo per un passaggio pedonale.
+Una volta completata la sequenza delle luci, potresti provare ad aggiungere un pulsante e un cicalino per creare una versione interattiva.
