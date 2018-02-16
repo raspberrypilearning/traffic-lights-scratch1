@@ -7,7 +7,7 @@ duration: 2
 listed: false
 ingredient: false
 copyedit: false
-curriculum: programmation-0, phys-comp-0
+curriculum: programming-0, phys-comp-0
 interests: "informatique physique"
 technologies: "électronique, informatique physique, scratch"
 site_areas: ""
@@ -15,7 +15,7 @@ steps:
   - 
     title: introduction
   - 
-    title: Ce dont tu auras besoin
+    title: Ce dont vous aurez besoin
   - 
     title: Connectez les LED
   - 
