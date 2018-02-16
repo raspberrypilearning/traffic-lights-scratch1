@@ -1,3 +1,3 @@
-## introduzione
+## Introduzione
 
-Impara a controllare i semafori a LED e codifica una sequenza di semafori utilizzando Scratch 1.4
+Impara a controllare i semafori a LED e crea una sequenza di luci con Scratch 1.4
