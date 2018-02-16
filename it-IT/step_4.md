@@ -1,8 +1,8 @@
-## Controlla i LED
+## Controllare i LED
 
-1. Apri **Scratch** dal menu Programmazione (**Scratch**, non **Scratch 2**).
+1. Apri **Scratch** dal menu principale (**Scratch**, non **Scratch 2**).
 
-2. Fare clic su **Modifica** nella barra dei menu e selezionare **Avviare il server GPIO**:
+2. Nella barra dei menu, fai click su **Modifica** e seleziona **Avviare il server GPIO**:
     
     ![](images/scratch1-1.png)
 
