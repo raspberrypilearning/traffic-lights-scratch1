@@ -3,4 +3,4 @@
 ### Hardware
 
 - Raspberry Pi
-- semafori pi-stop o 3x LED e resistori
+- Pi-Stop traffic lights oppure 3x LED e resistenze
