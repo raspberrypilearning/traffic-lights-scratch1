@@ -6,11 +6,11 @@
     
     ![](images/scratch1-1.png)
 
-3. Fai click sul pannello **Controllo**. Trascina nel pannello un blocco **quando si clicca su ⚑** e due blocchi **invia a tutti**. Collegarli insieme in sequenza e modificare le trasmissioni per dire `config22out` e `gpio22on` così:
+3. Fai click sul pannello **Controllo**. Trascina nel pannello un blocco **quando si clicca su ⚑** e due blocchi **invia a tutti**. Unisci i blocchi in una sequenza e modifica i messaggi per far sì che dicano `config22out` e `gpio22on`:
     
     ![](images/scratch1-2.png)
 
-4. Ora fai clic sulla bandiera verde per eseguire il tuo codice. Dovresti vedere il LED rosso acceso.
+4. Adesso fai click sulla bandierina verde per far partire il tuo codice. Il LED rosso dovrebbe accendersi.
 
 5. Ora aggiungi un **wait 1 secs** bloccare prima e dopo aver spento il LED con `broadcast gpio22off`, e avvolgerlo in un **per sempre** blocco per lampeggiare continuamente:
     
