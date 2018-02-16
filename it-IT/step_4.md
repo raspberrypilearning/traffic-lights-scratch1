@@ -6,7 +6,7 @@
     
     ![](images/scratch1-1.png)
 
-3. Fai click sul pannello **Controllo**. Trascina in un **quando viene cliccato il flag** blocco e due **broadcast** blocchi. Collegarli insieme in sequenza e modificare le trasmissioni per dire `config22out` e `gpio22on` così:
+3. Fai click sul pannello **Controllo**. Trascina nel pannello un blocco **quando si clicca su ⚑** e due blocchi **invia a tutti**. Collegarli insieme in sequenza e modificare le trasmissioni per dire `config22out` e `gpio22on` così:
     
     ![](images/scratch1-2.png)
 
