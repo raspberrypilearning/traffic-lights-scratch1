@@ -1,6 +1,6 @@
-## Sequenza dei semafori
+## Il semaforo
 
-1. Prova ad accendere e spegnere le luci in sequenza:
+1. Prova a far accendere e spegnere le luci in sequenza:
 
 ![](images/scratch1-5.png)
 
