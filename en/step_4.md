@@ -2,7 +2,7 @@
 
 --- task ---
 
-1. Try turning the lights on and off in sequence:
+Try turning the lights on and off in sequence:
 
 ![](images/scratch1-5.png)
 
@@ -10,7 +10,7 @@
 
 --- task ---
 
-1. Now you know how to control the lights individually, and time the pauses between commands, can you create a traffic lights sequence? The sequence goes:
+Now you know how to control the lights individually, and time the pauses between commands, can you create a traffic lights sequence? The sequence goes:
 
     - Green on
     - Amber on
