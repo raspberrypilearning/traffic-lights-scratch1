@@ -1,24 +1,17 @@
 ---
-title: Controlla un semaforo con Scratch 1.4
+title: Traffic Lights with Scratch 1.4
 hero_image: images/banner.png
 description: Impara a controllare i semafori a LED e crea una sequenza di luci con Scratch 1.4
-theme: red
-duration: 2
 listed: false
-ingredient: false
 copyedit: false
-curriculum: programming-0, phys-comp-0
-interests: "physical computing"
-technologies: "electronics, physical computing, scratch"
-site_areas: ""
+version: 4.1
+last_tested: 2018-11-20
 steps:
   - 
     title: Introduzione
   - 
-    title: Di cosa avrai bisogno
+    title: Connect the LEDs
   - 
-    title: Collegare i LED
+    title: Control the LEDs
   - 
-    title: Controllare i LED
-  - 
-    title: Il semaforo
+    title: Traffic lights sequence
