@@ -1,27 +1,25 @@
-## Контролирайте светодиодите
+## Traffic lights sequence
 
-1. Отвори **Scratch** от менюто за програмиране (**Scratch**, not **Scratch 2**).
+\--- task \---
 
-2. Кликнете върху **Редактиране** в лентата с менюта и изберете **Стартиране на GPIO сървър**:
-    
-    ![](images/scratch1-1.png)
+Try turning the lights on and off in sequence:
 
-3. Кликнете върху **Контрол** панел. Плъзнете в **при натискане на флаг** блок и две **излъчване** блокове. Докоснете ги заедно в последователност и редактирайте излъчванията, за да кажете `config22out` и `gpio22on` така:
-    
-    ![](images/scratch1-2.png)
+![](images/scratch1-5.png)
 
-4. Сега кликнете върху зеления флаг, за да стартирате кода си. Трябва да видите червения светодиод.
+\--- /task \---
 
-5. Сега добавете **чакайте 1 сек** блокирайте преди и след изключване на светодиода с `предаване gpio22off`и го обвийте в **forever** блок да мига непрекъснато:
-    
-    ![](images/scratch1-3.png)
+\--- task \---
 
-6. Щракнете върху зеления флаг отново и трябва да видите LED мига.
+Now you know how to control the lights individually, and time the pauses between commands, can you create a traffic lights sequence? The sequence goes:
 
-7. Сега добавете още **излъчване** блокира, за да въведете другите две светлини и да ги включите и изключите:
-    
-    ![](images/scratch1-4.png)
+- Green on
+- Amber on
+- Red on
+- Red and amber on
+- Green on
 
-8. Кликнете върху зеления флаг отново и трябва да видите, че трите лампички мигат заедно.
+It's important to think about timing. How long should the lights stay on for at each stage?
 
-9. Можете ли да промените номера в **чакайте 1 сек** да се ускори или забави последователността?
+\--- /task \---
+
+Once you have completed the traffic light sequence, you might want to try adding in a button and a buzzer to make an interactive traffic light for a pedestrian crossing.
