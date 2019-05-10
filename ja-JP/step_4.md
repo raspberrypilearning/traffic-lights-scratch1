@@ -1,27 +1,25 @@
-## LEDの制御
+## Traffic lights sequence
 
-1. 開く**スクラッチ**プログラミングメニュー（**スクラッチ**ではなく、**スクラッチ2**）
+\--- task \---
 
-2. **編集**をクリックします。 **Start GPIO server**を選択します。
-    
-    ![](images/scratch1-1.png)
+Try turning the lights on and off in sequence:
 
-3. **Control**をクリックします。パネル。 **フラグがクリックされたときに**ブロックと2つ**放送**ブロック。 それらを連続してドッキングし、ブロードキャストを編集して`config22out`と`gpio22on`そのようです：
-    
-    ![](images/scratch1-2.png)
+![](images/scratch1-5.png)
 
-4. 次に緑色の旗をクリックしてコードを実行します。 赤色のLEDが点灯するはずです。
+\--- /task \---
 
-5. 今すぐ追加**待機1秒** `broadcast gpio22off`でLEDを消す前後でブロックし、**forever**ブロックが連続的に点滅する：
-    
-    ![](images/scratch1-3.png)
+\--- task \---
 
-6. 緑の旗をもう一度クリックすると、LEDが点滅するはずです。
+Now you know how to control the lights individually, and time the pauses between commands, can you create a traffic lights sequence? The sequence goes:
 
-7. もう少し追加する**放送**ブロックを使用して他の2つのライトを導入し、それらのライトをすべてオンまたはオフにします。
-    
-    ![](images/scratch1-4.png)
+- Green on
+- Amber on
+- Red on
+- Red and amber on
+- Green on
 
-8. 緑色の旗をもう一度クリックすると、3つのライトが一緒に点滅するのがわかります。
+It's important to think about timing. How long should the lights stay on for at each stage?
 
-9. 数を変更できますか？**待機1秒**シーケンスをスピードアップまたはスローダウンするには？
+\--- /task \---
+
+Once you have completed the traffic light sequence, you might want to try adding in a button and a buzzer to make an interactive traffic light for a pedestrian crossing.
