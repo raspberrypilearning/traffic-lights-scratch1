@@ -1,27 +1,25 @@
-## Kontrolliere die LEDs
+## Traffic lights sequence
 
-1. Öffnen **Scratch** aus dem Programmiermenü (**Scratch**, nicht **Scratch 2**).
+\--- task \---
 
-2. Klicken Sie auf **Bearbeiten** in der Menüleiste und wählen Sie **GPIO-Server starten**:
-    
-    ![](images/scratch1-1.png)
+Try turning the lights on and off in sequence:
 
-3. Klicken Sie auf **Steuerung** Panel. Ziehen Sie in einem **wenn Flag geklickt wird** block und zwei **broadcast** Blöcke. Docken Sie sie nacheinander an und bearbeiten Sie die Broadcasts, um `config22out` zu sagen und `gpio22on` so:
-    
-    ![](images/scratch1-2.png)
+![](images/scratch1-5.png)
 
-4. Klicken Sie nun auf die grüne Flagge, um Ihren Code zu starten. Sie sollten sehen, dass die rote LED aufleuchtet.
+\--- /task \---
 
-5. Fügen Sie jetzt ein **warten Sie 1 Sekunden** Blockieren Sie vor und nach dem Ausschalten der LED mit `broadcast gpio22off`, und verpacken Sie es in ein **forever** blockieren, um kontinuierlich zu blinken:
-    
-    ![](images/scratch1-3.png)
+\--- task \---
 
-6. Klicken Sie erneut auf die grüne Flagge und Sie sollten die LED blinken sehen.
+Now you know how to control the lights individually, and time the pauses between commands, can you create a traffic lights sequence? The sequence goes:
 
-7. Fügen Sie nun weitere **broadcast** hinzu Blöcke, um die anderen beiden Lichter einzuführen und sie alle blinken zu lassen:
-    
-    ![](images/scratch1-4.png)
+- Green on
+- Amber on
+- Red on
+- Red and amber on
+- Green on
 
-8. Klicken Sie erneut auf die grüne Flagge und Sie sollten sehen, dass die drei Lichter zusammen blinken.
+It's important to think about timing. How long should the lights stay on for at each stage?
 
-9. Kannst du die Zahl in **warten 1 Sek.** ändern? um die Sequenz zu beschleunigen oder zu verlangsamen?
+\--- /task \---
+
+Once you have completed the traffic light sequence, you might want to try adding in a button and a buzzer to make an interactive traffic light for a pedestrian crossing.
