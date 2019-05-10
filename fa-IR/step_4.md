@@ -1,27 +1,25 @@
-## کنترل LED ها
+## Traffic lights sequence
 
-1. باز **خراش** از منوی برنامه ریزی (**خراش**، نه **خراش 2**).
+\--- task \---
 
-2. روی 123 | در نوار منو و انتخاب کنید **شروع سرور GPIO**:
-    
-    ![](images/scratch1-1.png)
+Try turning the lights on and off in sequence:
 
-3. روی 123_8_0_321 | کنترل</strong> کلیک کنید پانل در 123 | 13_0_321 | هنگام پرش کلیک کنید</strong> بلوک و دو **پخش** بلوک ها آنها را به صورت دسته ای دسته بندی کنید و برنامه های پخش را ویرایش کنید. `config22out` و `gpio22on` مانند:
-    
-    ![](images/scratch1-2.png)
+![](images/scratch1-5.png)
 
-4. برای اجرای کد خود، روی پرچم سبز کلیک کنید. شما باید چراغ قرمز را ببینید.
+\--- /task \---
 
-5. حالا اضافه کنید **انتظار 1 ثانیه** بلوک قبل و بعد از روشن کردن چراغ با `پخش gpio22off`و قرار دادن آن در **برای همیشه 123_9_5_321 | بلوک به طور مداوم چشمک می زند:</p> 
-    
-    ![](images/scratch1-3.png)</li> 
-    
-    - با کلیک بر روی پرچم سبز دوباره و شما باید چشمک زن LED را ببینید.
-    
-    - در حال حاضر اضافه کردن برخی دیگر **پخش** بلوک ها برای معرفی دو چراغ دیگر، و آنها را در همه فلش روشن و خاموش:
-        
-        ![](images/scratch1-4.png)
-    
-    - با کلیک بر روی پرچم سبز دوباره و شما باید سه چراغ فلش با هم ببینید.
-    
-    - آیا می توانید شماره را در **انتظار 1 ثانیه** برای سرعت بخشیدن یا کاهش سرعت دنباله؟</ol>
+\--- task \---
+
+Now you know how to control the lights individually, and time the pauses between commands, can you create a traffic lights sequence? The sequence goes:
+
+- Green on
+- Amber on
+- Red on
+- Red and amber on
+- Green on
+
+It's important to think about timing. How long should the lights stay on for at each stage?
+
+\--- /task \---
+
+Once you have completed the traffic light sequence, you might want to try adding in a button and a buzzer to make an interactive traffic light for a pedestrian crossing.
