@@ -1,24 +1,17 @@
 ---
-title: Scratch 1.4でトラフィックライトシーケンスを制御する
+title: Traffic Lights with Scratch 1.4
 hero_image: images / banner.png
 description: トラフィックライトのLEDを制御し、Scratch 1.4を使用して信号灯のシーケンスをコードする方法を学ぶ
-theme: 赤
-duration: 2
 listed: false
-ingredient: false
 copyedit: false
-curriculum: プログラミング-0、phys-comp-0
-interests: "物理計算"
-technologies: "エレクトロニクス、物理コンピューティング、スクラッチ"
-site_areas: ""
+version: 4.1
+last_tested: 2018-11-20
 steps:
   - 
     title: 前書き
   - 
-    title: あなたが必要とするもの
+    title: Connect the LEDs
   - 
-    title: LEDを接続する
+    title: Control the LEDs
   - 
-    title: LEDの制御
-  - 
-    title: 交通信号のシーケンス
+    title: Traffic lights sequence
