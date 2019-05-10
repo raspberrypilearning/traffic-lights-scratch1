@@ -1,6 +1,15 @@
-## तुम क्या आवश्यकता होगी
+## Connect the LEDs
 
-### हार्डवेयर
+\--- task \---
 
-- रास्पबेरी पाई
-- पीआई-स्टॉप ट्रैफिक लाइट या 3x एल ई डी और प्रतिरोधक
+Connect your LEDs to the following pins:
+
+| LED   | GPIO pin |
+| ----- |:--------:|
+| Red   |    22    |
+| Amber |    27    |
+| Green |    17    |
+
+![pi stop connected to gpio 22,27,17 and ground](images/Traffic-Lights-Diagram.png)
+
+\--- /task \---
