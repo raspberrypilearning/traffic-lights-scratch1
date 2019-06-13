@@ -1,12 +1,12 @@
 ## Einleitung
 
-Learn to control traffic light LEDs and code a traffic lights sequence using Scratch 1.4.
+Lerne die Ampel-LEDs zu steuern und einen Ampelablauf mit Scratch 1.4 zu programmieren.
 
 \--- collapse \---
 
 * * *
 
-## title: What you will need
+## title: Was du brauchen wirst
 
 - Raspberry Pi computer
 - LEDs: 
@@ -19,7 +19,7 @@ Learn to control traffic light LEDs and code a traffic lights sequence using Scr
 
 * * *
 
-## title: What you will learn
+## title: Was du lernen wirst
 
 - Controlling your Raspberry Pi's GPIO pins using Scratch 1.4
 - Using LEDs with your Raspberry Pi
