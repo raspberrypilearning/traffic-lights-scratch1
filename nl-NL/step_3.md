@@ -1,14 +1,14 @@
-## Control the LEDs
+## Bedien de LED's
 
 \--- task \---
 
-Open **Scratch** from the Programming menu (**Scratch**, not **Scratch 2**).
+Open **Scratch** uit het Start menu (**Scratch**, niet **Scratch 2**).
 
-\--- /task \---
+\---/task\---
 
 \--- task \---
 
-Click **Edit** in the menu bar and select **Start GPIO server**:
+Klik **Bewerken** in de menubalk en selecteer **Start GPIO-server**:
 
 ![](images/scratch1-1.png)
 
@@ -16,7 +16,7 @@ Click **Edit** in the menu bar and select **Start GPIO server**:
 
 \--- task \---
 
-Click the **Control** panel. Drag in a **when flag clicked** block and two **broadcast** blocks. Dock them together in sequence and edit the broadcasts to say `config22out` and `gpio22on` like so:
+Klik op het **Besturen** paneel. Sleep een **wanneer vlag wordt aangeklikt** blok en twee **zend signaal** blokken naar het programma venster. Koppel ze in de juiste volgorde aan elkaar en verander de blokken naar `config22out` en `gpio22on` zoals hier:
 
 ![](images/scratch1-2.png)
 
@@ -24,9 +24,9 @@ Click the **Control** panel. Drag in a **when flag clicked** block and two **bro
 
 \--- task \---
 
-Now click the green flag to run your code. You should see the red LED light up.
+Klik nu op de groene vlag om je code uit te voeren. Je zou de rode LED moeten zien oplichten.
 
-Now add a **wait 1 secs** block before and after turning the LED off with `broadcast gpio22off`, and wrap it in a **forever** block to blink continuously:
+Voeg nu twee **wacht 1 tellen** blokken toe met daartussen een `zend signaal gpio22off` blok en omsluit het geheel met een **herhaal** blok om de LED's continu te laten knipperen:
 
 ![](images/scratch1-3.png)
 
@@ -34,13 +34,13 @@ Now add a **wait 1 secs** block before and after turning the LED off with `broad
 
 \--- task \---
 
-Click the green flag again and you should see the LED blink.
+Klik nogmaals op de groene vlag en je zou de LED moeten zien knipperen.
 
 \--- /task \---
 
 \--- task \---
 
-Now add some more **broadcast** blocks to introduce the other two lights, and make them all flash on and off:
+Voeg nu wat meer **zend signaal** blokken toe om de andere twee LED's ook te laten knipperen:
 
 ![](images/scratch1-4.png)
 
@@ -48,12 +48,12 @@ Now add some more **broadcast** blocks to introduce the other two lights, and ma
 
 \--- task \---
 
-Click the green flag again and you should see the three lights flash together.
+Klik nogmaals op de groene vlag en je zou alle drie LED's moeten zien knipperen.
 
 \--- /task \---
 
 \--- task \---
 
-Can you change the number in **wait 1 secs** to speed up or slow down the sequence?
+Kun je de tijd in **wacht 1 sec** wijzigen om de reeks te versnellen of te vertragen?
 
 \--- /task \---
