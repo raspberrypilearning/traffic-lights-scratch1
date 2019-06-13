@@ -1,8 +1,8 @@
-## Traffic lights sequence
+## Verkeerslichten volgorde
 
 \--- task \---
 
-Try turning the lights on and off in sequence:
+Probeer de lichten achter elkaar in en uit te schakelen:
 
 ![](images/scratch1-5.png)
 
@@ -10,16 +10,16 @@ Try turning the lights on and off in sequence:
 
 \--- task \---
 
-Now you know how to control the lights individually, and time the pauses between commands, can you create a traffic lights sequence? The sequence goes:
+Nu weet je hoe je de lichten en de pauzes tussen opdrachten afzonderlijk kunt besturen, kun je nu een goede volgorde en tijdsduur voor een verkeerslicht maken? De volgorde is:
 
-- Green on
-- Amber on
-- Red on
-- Red and amber on
-- Green on
+- Rood uit, groen aan
+- Groen uit, oranje aan
+- Oranje uit, rood aan
+- Rood en oranje aan
+- Groen aan
 
-It's important to think about timing. How long should the lights stay on for at each stage?
+Het is belangrijk om na te denken over de tijdsduur van elk licht. Hoe lang moet het licht in elke fase aan blijven?
 
 \--- /task \---
 
-Once you have completed the traffic light sequence, you might want to try adding in a button and a buzzer to make an interactive traffic light for a pedestrian crossing.
+Nadat je de volgorde van het verkeerslicht hebt voltooid, kunt je proberen een knop en een zoemer toe te voegen om een ​​interactief verkeerslicht te maken voor een zebrapad.
