@@ -1,6 +1,6 @@
 ## Introductie
 
-Learn to control traffic light LEDs and code a traffic lights sequence using Scratch 1.4.
+Leer een verkeerslicht te besturen en te programmeren met behulp van Scratch 1.4.
 
 \--- collapse \---
 
@@ -19,7 +19,7 @@ Learn to control traffic light LEDs and code a traffic lights sequence using Scr
 
 * * *
 
-## title: What you will learn
+## title: Wat ga je leren
 
 - Controlling your Raspberry Pi's GPIO pins using Scratch 1.4
 - Using LEDs with your Raspberry Pi
