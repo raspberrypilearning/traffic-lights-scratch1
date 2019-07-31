@@ -1,14 +1,14 @@
-## Control the LEDs
+## Vezéreld a LED-eket
 
 \--- task \---
 
-Open **Scratch** from the Programming menu (**Scratch**, not **Scratch 2**).
+Nyisd meg a **Scratch**-t a Programozás menüből (**Scratch**, ne a **Scratch 2**-t).
 
 \--- /task \---
 
 \--- task \---
 
-Click **Edit** in the menu bar and select **Start GPIO server**:
+Kattints a **Módosítás** menüben a **Start GPIO server** menüpontra:
 
 ![](images/scratch1-1.png)
 
@@ -16,7 +16,7 @@ Click **Edit** in the menu bar and select **Start GPIO server**:
 
 \--- task \---
 
-Click the **Control** panel. Drag in a **when flag clicked** block and two **broadcast** blocks. Dock them together in sequence and edit the broadcasts to say `config22out` and `gpio22on` like so:
+Válaszd ki a **Vezérlés** panelt. Húzz be egy **kattintáskor** blokkot és kettő **küldj üzenetet** blokkot. Kapcsold őket össze egy szekvenciába és módosítsd az üzeneteket `config22out` és `gpio22on` szövegűre:
 
 ![](images/scratch1-2.png)
 
@@ -24,9 +24,9 @@ Click the **Control** panel. Drag in a **when flag clicked** block and two **bro
 
 \--- task \---
 
-Now click the green flag to run your code. You should see the red LED light up.
+És most nyomd meg a zöld zászlót a kódod futtatásához. Látnod kell, hogy a piros LED bekapcsol.
 
-Now add a **wait 1 secs** block before and after turning the LED off with `broadcast gpio22off`, and wrap it in a **forever** block to blink continuously:
+Most adj hozzá egy **várj 1 mp-et** blokkot, egy `küldj üzenetet gpio22out` LED kikapcsoló blokkot, aztán újra egy várakoztató blokkot és csomagold őket egy **mindig** blokkba a folyamatos villogáshoz:
 
 ![](images/scratch1-3.png)
 
@@ -34,13 +34,13 @@ Now add a **wait 1 secs** block before and after turning the LED off with `broad
 
 \--- task \---
 
-Click the green flag again and you should see the LED blink.
+Nyomd meg a zöld zászlót újra és látnod kell a LED felvillan.
 
 \--- /task \---
 
 \--- task \---
 
-Now add some more **broadcast** blocks to introduce the other two lights, and make them all flash on and off:
+Most adj hozzá még **küldj üzenetet** blokkokat és vezéreld velük a másik két lámpát is, kapcsold be és ki őket:
 
 ![](images/scratch1-4.png)
 
@@ -48,12 +48,12 @@ Now add some more **broadcast** blocks to introduce the other two lights, and ma
 
 \--- task \---
 
-Click the green flag again and you should see the three lights flash together.
+Nyomd meg a zöld zászlót újra és látnod kell mindhárom fényt egyszerre felvillani.
 
 \--- /task \---
 
 \--- task \---
 
-Can you change the number in **wait 1 secs** to speed up or slow down the sequence?
+Tudod úgy módosítani a számot a **várj 1 mp-et** blokkban, hogy felgyorsuljon vagy lelassuljon a szekvencia?
 
 \--- /task \---
