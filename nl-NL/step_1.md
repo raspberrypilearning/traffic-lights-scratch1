@@ -10,8 +10,8 @@ Leer een verkeerslicht te besturen en te programmeren met behulp van Scratch 1.4
 
 - Raspberry Pi computer
 - LEDs: 
-    - pi-stop traffic light board
-    - or 3x LEDs and resistors
+    - pi-verkeerslicht bord
+    - of 3 LED's en weerstanden
 
 \--- /collapse \---
 
@@ -21,8 +21,8 @@ Leer een verkeerslicht te besturen en te programmeren met behulp van Scratch 1.4
 
 ## title: Wat ga je leren
 
-- Controlling your Raspberry Pi's GPIO pins using Scratch 1.4
-- Using LEDs with your Raspberry Pi
+- De GPIO-pinnen van je Raspberry Pi aansturen met Scratch 1.4
+- Het gebruik van LEDs met jouw Raspberry Pi
 
 \--- /collapse \---
 
@@ -30,11 +30,11 @@ Leer een verkeerslicht te besturen en te programmeren met behulp van Scratch 1.4
 
 * * *
 
-## title: Information for Jam organisers
+## title: Informatie voor Jam organisatoren
 
 \--- no-print \---
 
-If you need to print this project, a [PDF version](https://github.com/raspberrypilearning/jam-worksheets/raw/master/pdf/Traffic-Lights-Scratch1.pdf) is available. Please observe any notes on this page before printing.
+Als je dit project wilt afdrukken, is er een [PDF-versie](https://github.com/raspberrypilearning/jam-worksheets/raw/master/pdf/Traffic-Lights-Scratch1.pdf) beschikbaar. Let op de opmerkingen op deze pagina voordat je gaat afdrukken.
 
 \--- /no-print \---
 
