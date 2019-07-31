@@ -1,6 +1,6 @@
 ---
-title: Traffic Lights with Scratch 1.4
-hero_image: images / banner.png
+title: Közlekedési lámpák vezérlése Scratch 1.4 segítségével
+hero_image: images/banner.png
 description: Tanuld meg, hogy irányítsd a közlekedési lámpa LED-eket, és kódolj egy közlekedési lámpa sorozatot a Scratch 1.4 segítségével
 listed: false
 copyedit: false
@@ -10,8 +10,8 @@ steps:
   - 
     title: Bevezetés
   - 
-    title: Connect the LEDs
+    title: Csatlakoztasd a LED-eket
   - 
-    title: Control the LEDs
+    title: Vezéreld a LED-eket
   - 
-    title: Traffic lights sequence
+    title: Közlekedési lámpák ciklusa
