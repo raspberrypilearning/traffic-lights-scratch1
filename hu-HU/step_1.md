@@ -1,17 +1,17 @@
 ## Bevezetés
 
-Learn to control traffic light LEDs and code a traffic lights sequence using Scratch 1.4.
+Tanuld meg hogyan vezérelhetsz LED-ekből épített jelzőlámpát Scratch 1.4 segítségével.
 
 \--- collapse \---
 
 * * *
 
-## title: What you will need
+## title: Mire lesz szükséged
 
-- Raspberry Pi computer
-- LEDs: 
-    - pi-stop traffic light board
-    - or 3x LEDs and resistors
+- Raspberry Pi számítógép
+- LED-ek: 
+    - pi-stop jelzőlámpa-lap
+    - vagy 3db LED és ellenállások
 
 \--- /collapse \---
 
@@ -19,10 +19,10 @@ Learn to control traffic light LEDs and code a traffic lights sequence using Scr
 
 * * *
 
-## title: What you will learn
+## title: Mit fogsz megtanulni
 
-- Controlling your Raspberry Pi's GPIO pins using Scratch 1.4
-- Using LEDs with your Raspberry Pi
+- A Raspberry Pi GPIO tüskék vezérlése Scratch 1.4 segítségével
+- a LED-ek használatát Raspberry Pi-vel
 
 \--- /collapse \---
 
@@ -30,11 +30,11 @@ Learn to control traffic light LEDs and code a traffic lights sequence using Scr
 
 * * *
 
-## title: Information for Jam organisers
+## title: Információ Jam szervezőknek
 
 \--- no-print \---
 
-If you need to print this project, a [PDF version](https://github.com/raspberrypilearning/jam-worksheets/raw/master/pdf/Traffic-Lights-Scratch1.pdf) is available. Please observe any notes on this page before printing.
+Ha ki kell nyomtatnod a projektet, elérhető [PDF verzióban](https://github.com/raspberrypilearning/jam-worksheets/raw/master/pdf/Traffic-Lights-Scratch1.pdf). Olvass el minden megjegyzést ezen az oldalon a nyomtatás előtt.
 
 \--- /no-print \---
 
