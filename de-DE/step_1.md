@@ -8,10 +8,10 @@ Lerne die Ampel-LEDs zu steuern und einen Ampelablauf mit Scratch 1.4 zu program
 
 ## title: Was du brauchen wirst
 
-- Raspberry Pi computer
+- Raspberry Pi Computer
 - LEDs: 
-    - pi-stop traffic light board
-    - or 3x LEDs and resistors
+    - entweder das zu kaufende "PiStop - Traffic Light Add-on for Raspberry Pi"
+    - oder drei (3) LEDs in den Farben rot, gelb, grün und drei (3) Widerstände (100 Ohm)
 
 \--- /collapse \---
 
@@ -21,8 +21,8 @@ Lerne die Ampel-LEDs zu steuern und einen Ampelablauf mit Scratch 1.4 zu program
 
 ## title: Was du lernen wirst
 
-- Controlling your Raspberry Pi's GPIO pins using Scratch 1.4
-- Using LEDs with your Raspberry Pi
+- Die Raspberry PI GPIO pins mit Scratch 3.0 steuern. GPIO steht für General-Purpose Input/Output oder übersetzt: Allzweckeingabe/-ausgabe
+- Wie man LEDs zusammen mit dem Raspberry Pi steuert
 
 \--- /collapse \---
 
@@ -30,11 +30,11 @@ Lerne die Ampel-LEDs zu steuern und einen Ampelablauf mit Scratch 1.4 zu program
 
 * * *
 
-## title: Information for Jam organisers
+## title: Informationen für Jam Organisatoren
 
 \--- no-print \---
 
-If you need to print this project, a [PDF version](https://github.com/raspberrypilearning/jam-worksheets/raw/master/pdf/Traffic-Lights-Scratch1.pdf) is available. Please observe any notes on this page before printing.
+Wenn du diese Projekt ausdrucken willst, kannst du diese [PDF Version](https://github.com/raspberrypilearning/jam-worksheets/raw/master/pdf/Traffic-Lights-Scratch1.pdf) dafür nutzen. Bitte alle Informationen auf dieser Seite berücksichtigen, bevor du diese ausdruckst; nicht dass dir am Ende etwas wichtiges fehlt.
 
 \--- /no-print \---
 
