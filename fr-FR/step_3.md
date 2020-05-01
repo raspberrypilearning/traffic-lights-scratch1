@@ -1,14 +1,14 @@
-## Control the LEDs
+## Contrôle les LED
 
 \--- task \---
 
-Open **Scratch** from the Programming menu (**Scratch**, not **Scratch 2**).
+Ouvre **Scratch** à partir du menu de programmation (**Scratch **, pas **Scratch 2**).
 
 \--- /task \---
 
 \--- task \---
 
-Click **Edit** in the menu bar and select **Start GPIO server**:
+Clique **Éditer** dans la barre de menu et sélectionne **Start GPIO server**:
 
 ![](images/scratch1-1.png)
 
@@ -16,7 +16,7 @@ Click **Edit** in the menu bar and select **Start GPIO server**:
 
 \--- task \---
 
-Click the **Control** panel. Drag in a **when flag clicked** block and two **broadcast** blocks. Dock them together in sequence and edit the broadcasts to say `config22out` and `gpio22on` like so:
+Clique sur le panneau **Contrôle**. Fais glisser un bloc **lorsque le drapeau est pressé** et deux blocs **envoyer à tous**. Fixe-les ensemble en séquence et modifie les "envoyer à tous" pour dire `config22out` et `gpio22on` comme ceci:
 
 ![](images/scratch1-2.png)
 
@@ -24,9 +24,9 @@ Click the **Control** panel. Drag in a **when flag clicked** block and two **bro
 
 \--- task \---
 
-Now click the green flag to run your code. You should see the red LED light up.
+Maintenant, clique sur le drapeau vert pour exécuter ton code. Tu devrais voir la LED rouge s'allumer.
 
-Now add a **wait 1 secs** block before and after turning the LED off with `broadcast gpio22off`, and wrap it in a **forever** block to blink continuously:
+Maintenant, ajoute un bloc **attendre 1 secondes** avant et après avoir éteint la LED avec `envoyer à tous gpio22off`, et insère-le dans un bloc **répéter indéfiniment** pour clignoter continuellement:
 
 ![](images/scratch1-3.png)
 
@@ -34,13 +34,13 @@ Now add a **wait 1 secs** block before and after turning the LED off with `broad
 
 \--- task \---
 
-Click the green flag again and you should see the LED blink.
+Clique à nouveau sur le drapeau vert et tu devrais voir la LED clignoter.
 
 \--- /task \---
 
 \--- task \---
 
-Now add some more **broadcast** blocks to introduce the other two lights, and make them all flash on and off:
+Maintenant, ajoute d'autres blocs **envoyer à tous** pour introduire les deux autres voyants, et les faire tous s'allumer et s'éteindre:
 
 ![](images/scratch1-4.png)
 
@@ -48,12 +48,12 @@ Now add some more **broadcast** blocks to introduce the other two lights, and ma
 
 \--- task \---
 
-Click the green flag again and you should see the three lights flash together.
+Clique à nouveau sur le drapeau vert et tu devrais voir que les trois feux clignotent ensemble.
 
 \--- /task \---
 
 \--- task \---
 
-Can you change the number in **wait 1 secs** to speed up or slow down the sequence?
+Peux-tu changer le nombre en **attendre 1 secondes** pour accélérer ou ralentir la séquence?
 
 \--- /task \---
