@@ -1,0 +1,13 @@
+---
+title: Steuere eine Verkehrsampel mit Scratch 1.4
+hero_image: images/banner.png
+description: Lerne die Ampel-LEDs zu steuern und einen Ampelablauf mit Scratch 1.4 zu programmieren
+listed: false
+copyedit: false
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: Einleitung
+  - title: Verbinde die LEDs
+  - title: Steuere die LEDs
+  - title: Verkehrsampel Sequenz
