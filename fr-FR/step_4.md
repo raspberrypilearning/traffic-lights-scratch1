@@ -1,8 +1,8 @@
-## Traffic lights sequence
+## Séquence de feux de signalisation
 
 \--- task \---
 
-Try turning the lights on and off in sequence:
+Essaie d'allumer et d'éteindre les lumières dans l'ordre:
 
 ![](images/scratch1-5.png)
 
@@ -10,16 +10,16 @@ Try turning the lights on and off in sequence:
 
 \--- task \---
 
-Now you know how to control the lights individually, and time the pauses between commands, can you create a traffic lights sequence? The sequence goes:
+Maintenant que tu sais comment contrôler les lumières individuellement, et régler les pauses entre les commandes, peux-tu créer une séquence de feux de signalisation? La séquence est:
 
-- Green on
-- Amber on
-- Red on
-- Red and amber on
-- Green on
+- Vert allumé
+- Orange allumé
+- Rouge allumé
+- Rouge et orange allumé
+- Vert allumé
 
-It's important to think about timing. How long should the lights stay on for at each stage?
+Fais attention au minutage. Combien de temps les lumières doivent-elles rester allumées à chaque étape?
 
 \--- /task \---
 
-Once you have completed the traffic light sequence, you might want to try adding in a button and a buzzer to make an interactive traffic light for a pedestrian crossing.
+Une fois que la séquence de feu de signalisation est terminée, tu peux essayer d'ajouter un bouton et un buzzer pour créer un feu de signalisation interactif pour un passage piétons.
