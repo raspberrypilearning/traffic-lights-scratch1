@@ -1,17 +1,17 @@
-## introduction
+## Introduction
 
-Learn to control traffic light LEDs and code a traffic lights sequence using Scratch 1.4.
+Apprends à contrôler les LED du feu de circulation et à coder une séquence de feux de circulation à l'aide de Scratch 1.4.
 
 \--- collapse \---
 
 * * *
 
-## title: What you will need
+## title: Ce qu'il te faut
 
-- Raspberry Pi computer
-- LEDs: 
-    - pi-stop traffic light board
-    - or 3x LEDs and resistors
+- Un ordinateur Raspberry Pi
+- LED : 
+    - une carte pi-stop traffic light
+    - ou 3 LED et des résistances
 
 \--- /collapse \---
 
@@ -19,10 +19,10 @@ Learn to control traffic light LEDs and code a traffic lights sequence using Scr
 
 * * *
 
-## title: What you will learn
+## title: Ce que tu vas apprendre
 
-- Controlling your Raspberry Pi's GPIO pins using Scratch 1.4
-- Using LEDs with your Raspberry Pi
+- Contrôler les GPIO de ton Raspberry Pi en utilisant Scratch 1.4
+- Utiliser des LED avec ton Raspberry Pi
 
 \--- /collapse \---
 
@@ -30,11 +30,11 @@ Learn to control traffic light LEDs and code a traffic lights sequence using Scr
 
 * * *
 
-## title: Information for Jam organisers
+## title: Informations pour les organisateurs de Jam
 
 \--- no-print \---
 
-If you need to print this project, a [PDF version](https://github.com/raspberrypilearning/jam-worksheets/raw/master/pdf/Traffic-Lights-Scratch1.pdf) is available. Please observe any notes on this page before printing.
+Si vous avez besoin d'imprimer ce projet, une [version PDF](https://github.com/raspberrypilearning/jam-worksheets/raw/master/pdf/Traffic-Lights-Scratch1.pdf) est disponible. Veuillez considérer toutes les notes de cette page avant d'imprimer.
 
 \--- /no-print \---
 
