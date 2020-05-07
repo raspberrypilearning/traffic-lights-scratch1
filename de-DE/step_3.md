@@ -8,7 +8,7 @@
 
 \--- task \---
 
-Klicke auf **Bearbeiten** in der Menüleiste und wähle **Start GPIO-Server**:
+Klicke auf **Bearbeiten** in der Menüleiste und wähle **Start GPIO server**:
 
 ![](images/scratch1-1.png)
 
