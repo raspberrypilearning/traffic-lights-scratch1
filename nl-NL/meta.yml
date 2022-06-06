@@ -9,8 +9,6 @@ version: 4
 last_tested: 2017-01-01
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Verbind de LED's
 - title: Bedien de LED's
-  completion: internal
 - title: Bestuur de LED's
